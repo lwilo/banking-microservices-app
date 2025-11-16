@@ -1,0 +1,48 @@
+# Maven
+target/
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.iws
+*.ipr
+
+# Spring Boot
+*.log
+*.gz
+HELP.md
+
+# Node (pour Angular plus tard)
+node_modules/
+dist/
+.angular/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
